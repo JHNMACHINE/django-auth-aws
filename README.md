@@ -1,4 +1,4 @@
-# Full Auth API
+# Django AWS Auth API
 
 ---
 
